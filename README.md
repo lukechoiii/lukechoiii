@@ -10,7 +10,7 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/bokchoiiiiii) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lukechoiii) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:choiluke140@gmail.com) 
 
 # 💻 Tech Stack:
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Mathematica](https://www.wolfram.com/mathematica/img/overview/intro-spikey.png)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=lukechoiii&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=lukechoiii&theme=dark&hide_border=false)<br/>
